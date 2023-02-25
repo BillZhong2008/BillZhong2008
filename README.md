@@ -11,8 +11,8 @@
 </br>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=BillZhong2008&count_private=true&show_icons=true&include_all_commits=true&text_bold=true&theme=tokyonight" width="430"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BillZhong2008&theme=dark&locale=zh_Hans&date_format=%5BY%20%5DM%20j" width="453">
+  <img src="https://github-readme-stats.vercel.app/api?username=BillZhong2008&count_private=true&show_icons=true&include_all_commits=true&text_bold=true&theme=tokyonight" width="420"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BillZhong2008&theme=dark&locale=zh_Hans&date_format=%5BY%20%5DM%20j" width="443">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillZhong2008&layout=compact&langs_count=8&theme=tokyonight" width="380">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
 </p>
