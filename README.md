@@ -16,5 +16,5 @@
 </p>
 <p align="center"> 
   <img src="https://osu-sig.vercel.app/card?user=Bill_Zhong&mode=std&animation=true&skills=true" width="480"/>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" width="480">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" width="360">
 </p>
