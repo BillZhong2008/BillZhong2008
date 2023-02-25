@@ -1,6 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=32&pause=1000&width=435&lines=%3CHello%2C+World!%2F%3E;%3CHola%2C+World!%2F%3E;%3CBonjor%2C+World!%2F%3E;%3CNi+Hao%2C+World!%2F%3E" alt="Typing SVG" />
+  </a>
+</p>
 </br>
 
 <p align="center"> 
