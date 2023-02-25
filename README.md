@@ -1,6 +1,13 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+</div>
+</br>
+
+<p align="center"> 
+  Visitor count</br>
+  <img src="https://profile-counter.glitch.me/BillZhong2008/count.svg" />
+</p>
+</br>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=BillZhong2008&count_private=true&show_icons=true&include_all_commits=true&text_bold=true&theme=tokyonight" width="430"/>
@@ -9,9 +16,4 @@
 </p>
 <p align="center"> 
   <img src="https://osu-sig.vercel.app/card?user=Bill_Zhong&mode=std&animation=true&skills=true" width="480"/>
-</p>
-</br>
-<p align="center"> 
-  Visitor count</br>
-  <img src="https://profile-counter.glitch.me/BillZhong2008/count.svg" />
 </p>
