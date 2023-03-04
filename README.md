@@ -35,7 +35,7 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" />
 </div></br></br>
 
-<div style="display: flex;">
+<div align="center" style="display: flex;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 9px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 9px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 9px; margin-bottom: 0px;" />
