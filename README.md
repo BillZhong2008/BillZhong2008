@@ -1,5 +1,5 @@
 <p>
-  kawaii!
+  <p align="right">kawaii!</p>
   <img align="right" height="150" src="https://q1.qlogo.cn/g?b=qq&nk=3492772281&s=640">
 </p>
 
