@@ -48,7 +48,7 @@
   <!-- Spotify card -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" width="360">
   <!-- A Good Sentence -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
 
 <p>
