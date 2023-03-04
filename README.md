@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=BillZhong2008&data=followers,repositories,stars,commits">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=BillZhong2008&data=followers,repositories,stars,commits&theme=dark_magic_girl">
 </p>
 
 <p>
