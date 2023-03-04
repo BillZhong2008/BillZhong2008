@@ -1,7 +1,7 @@
 <p>
   <p align="right">kawaii!<p>
   <img align="right" height="150" src="https://q1.qlogo.cn/g?b=qq&nk=3492772281&s=640">
-</p>
+</p></br>
 
 <p align="center">
   <!-- 循环播放hello的多语言字样 -->
