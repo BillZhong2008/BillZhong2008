@@ -35,7 +35,7 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" />
 </div></br>
 
-<p>
+<p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
   <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg">
   <img src="https://forthebadge.com/images/badges/open-source.svg">
