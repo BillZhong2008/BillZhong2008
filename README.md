@@ -37,6 +37,8 @@
 
 <!-- 自定义卡片 -->
 <p align="center">
+  <!-- Github Stat Cups -->
+  <img src="https://github-profile-trophy.vercel.app/?username=BillZhong2008&theme=tokyonight">
   <!-- Github Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=BillZhong2008&count_private=true&show_icons=true&include_all_commits=true&text_bold=true&theme=tokyonight" width="400">
   <!-- Used Languages Display -->
@@ -55,6 +57,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BillZhong2008&theme=tokyonight">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BillZhong2008&theme=tokyo-night&area=true&hide_border=true">
 </p>
