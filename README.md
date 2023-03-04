@@ -37,6 +37,10 @@
 
 <p>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg">
+  <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg">
+  <img src="https://forthebadge.com/images/badges/open-source.svg">
+  <img src="https://forthebadge.com/images/badges/for-you.svg">
 </p>
 
 <!-- 自定义卡片 -->
