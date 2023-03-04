@@ -1,13 +1,7 @@
-<p>
-  <p align="right">kawaii!</p>
-  <img align="right" height="150" src="https://q1.qlogo.cn/g?b=qq&nk=3492772281&s=640">
+<p align="right">
+  kawaii!
+  <img height="150" src="https://q1.qlogo.cn/g?b=qq&nk=3492772281&s=640">
 </p>
-
-<!-- 循环播放hello的多语言字样 -->
-<p align="center">
-  
-</p>
-</br>
 
 <p align="center">
   <!-- 循环播放hello的多语言字样 -->
@@ -17,8 +11,7 @@
   <!-- 个人主页访问人数 -->
   Visitor count</br>
   <img src="https://profile-counter.glitch.me/BillZhong2008/count.svg" />
-</p>
-</br>
+</p></br>
 
 <div align="center">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
