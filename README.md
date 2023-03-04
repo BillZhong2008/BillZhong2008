@@ -55,5 +55,6 @@
 </p>
 
 <p>
+  <img src="https://github-profile-trophy.vercel.app/?username=BillZhong2008&theme=tokyonight">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BillZhong2008&theme=tokyo-night&area=true&hide_border=true">
 </p>
