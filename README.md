@@ -1,4 +1,8 @@
 <p>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=BillZhong2008&data=followers,repositories,stars,commits">
+</p>
+
+<p>
   <p align="right">kawaii!<p>
   <img align="right" height="150" src="https://q1.qlogo.cn/g?b=qq&nk=3492772281&s=640">
 </p></br>
@@ -8,7 +12,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=500&size=48&pause=1000&center=true&vCenter=true&width=435&lines=%3CHello%2C+World!%2F%3E;%3CHola%2C+World!%2F%3E;%3CBonjor%2C+World!%2F%3E;%3CNi+Hao%2C+World!%2F%3E" alt="Typing SVG" />
   </a>
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=BillZhong2008&data=followers,repositories,stars,commits">
   <!-- 个人主页访问人数 -->
   Visitor count</br>
   <img src="https://profile-counter.glitch.me/BillZhong2008/count.svg" />
