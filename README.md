@@ -54,7 +54,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BillZhong2008&theme=tokyonight">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BillZhong2008&theme=tokyo-night&area=true&hide_border=true">
 </p>
