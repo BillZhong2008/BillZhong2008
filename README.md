@@ -56,5 +56,5 @@
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BillZhong2008&bg_color=242424&color=4c9e91&line=35dde9&point=009fc7&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BillZhong2008&theme=tokyo-night&area=true&hide_border=true">
 </p>
