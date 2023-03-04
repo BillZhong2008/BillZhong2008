@@ -1,6 +1,6 @@
 <p>
   kawaii!
-  <img align="right" src="https://q1.qlogo.cn/g?b=qq&nk=3492772281&s=640">
+  <img align="right" height="150" src="https://q1.qlogo.cn/g?b=qq&nk=3492772281&s=640">
 </p>
 
 <!-- 循环播放hello的多语言字样 -->
