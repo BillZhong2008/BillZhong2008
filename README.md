@@ -54,9 +54,9 @@
 
 <p align="center"> 
   <!-- osu! card -->
-  <img src="https://osu-sig.vercel.app/card?user=Bill_Zhong&mode=std&animation=true&skills=true" width="480"/>
+  <img src="https://osu-sig.vercel.app/card?user=Bill_Zhong&mode=std&animation=true&skills=true" width="460"/>
   <!-- Spotify card -->
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" width="338">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" width="318">
   <!-- A Good Sentence -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
