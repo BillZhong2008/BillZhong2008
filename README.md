@@ -53,12 +53,10 @@
 </p>
 
 <p align="center"> 
-  <!-- Github Stats Chinese ver. -->
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BillZhong2008&theme=dark&locale=zh_Hans&date_format=%5BY%20%5DM%20j" width="423">
   <!-- osu! card -->
   <img src="https://osu-sig.vercel.app/card?user=Bill_Zhong&mode=std&animation=true&skills=true" width="480"/>
   <!-- Spotify card -->
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" width="360">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" width="300">
   <!-- A Good Sentence -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
