@@ -56,7 +56,7 @@
   <!-- osu! card -->
   <img src="https://osu-sig.vercel.app/card?user=Bill_Zhong&mode=std&animation=true&skills=true" width="480"/>
   <!-- Spotify card -->
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" width="300">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" width="330">
   <!-- A Good Sentence -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
