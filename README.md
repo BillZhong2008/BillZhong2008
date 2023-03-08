@@ -47,9 +47,9 @@
   <!-- Github Stat Cups -->
   <img src="https://github-profile-trophy.vercel.app/?username=BillZhong2008&theme=tokyonight">
   <!-- Github Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BillZhong2008&count_private=true&show_icons=true&include_all_commits=true&text_bold=true&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats-billzhong2008.vercel.app/api?username=BillZhong2008&count_private=true&show_icons=true&include_all_commits=true&text_bold=true&theme=tokyonight" width="400">
   <!-- Used Languages Display -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillZhong2008&layout=compact&langs_count=8&theme=tokyonight" width="380">
+  <img src="https://github-readme-stats-billzhong2008.vercel.app/api/top-langs/?username=BillZhong2008&layout=compact&langs_count=8&theme=tokyonight" width="380">
 </p>
 
 <p align="center"> 
