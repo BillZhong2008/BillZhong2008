@@ -62,6 +62,7 @@
 </p>
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BillZhong2008&theme=tokyo-night&area=true&hide_border=true">
