@@ -62,6 +62,9 @@
 </p>
 
 <!--START_SECTION:activity-->
+1.
+2.
+3.
 <!--END_SECTION:activity-->
 
 <p align="center">
