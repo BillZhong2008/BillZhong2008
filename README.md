@@ -78,7 +78,7 @@
 </br>
 *There seems to be something wrong,*
 </br>
-    *but I hasnt got time and also dont know how to fix it :(*
+*but I hasnt got time and also dont know how to fix it :(*
 
 ---
 
