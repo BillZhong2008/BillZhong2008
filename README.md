@@ -73,11 +73,12 @@
 5. 
 <!--END_SECTION:activity-->
 
----
 
 *👆这玩意儿好像出了点问题，但是我不想改（）*
 </br>
 *There seems to be something wrong, but I hasn't got time to fix it :(*
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BillZhong2008&theme=tokyo-night&area=true&hide_border=true">
