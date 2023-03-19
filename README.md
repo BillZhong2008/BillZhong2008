@@ -76,7 +76,9 @@
 
 *👆这玩意儿好像出了点问题，但是我不想改（）*
 </br>
-*There seems to be something wrong, but I hasn't got time to fix it :(*
+*There seems to be something wrong,*
+</br>
+*    but I hasnt got time and also dont know how to fix it :(*
 
 ---
 
