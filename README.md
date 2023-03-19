@@ -74,7 +74,7 @@
 <!--END_SECTION:activity-->
 
 
-*👆这玩意儿好像出了点问题，但是我不想改（）*
+*👆这玩意儿好像出了点问题，但是我没时间改（ 不会就直说:( ）*
 </br>
 *There seems to be something wrong,*
 </br>
