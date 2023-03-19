@@ -72,7 +72,8 @@
 4. 
 5. 
 <!--END_SECTION:activity-->
-*好像出了点问题，但是我不想改（）*
+*👆这玩意儿好像出了点问题，但是我不想改（）*
+*There seems to be something wrong, but I hasn't got time to fix it :(*
 
 ---
 
