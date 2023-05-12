@@ -4,6 +4,7 @@
 </p>
 
 <p>
+  <!-- Onimai -->
   <p align="right">kawaii!<p>
   <img align="right" height="150" src="https://q1.qlogo.cn/g?b=qq&nk=3492772281&s=640">
 </p></br>
@@ -19,6 +20,7 @@
 </p></br>
 
 <div align="center">
+	<!-- Some Icons -->
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" />
@@ -37,6 +39,7 @@
 </div></br>
 
 <p align="center">
+  <!-- Another Icons -->
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
   <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg">
   <img src="https://forthebadge.com/images/badges/open-source.svg">
